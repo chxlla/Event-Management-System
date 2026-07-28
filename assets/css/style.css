@@ -1,0 +1,11 @@
+body {
+    font-family: Arial;
+    /* Background image for the dashboard (Event1.jpg) */
+    background-image: url("../images/Event1.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    /* Ensure content is readable on top of the image */
+    color: #fff;
+}
